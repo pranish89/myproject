@@ -1,0 +1,7 @@
+hi, this is my test plan
+Objective is to test the git repo functions such as
+Git squashing
+rebase and merge
+merge conflict
+stashing
+reset
